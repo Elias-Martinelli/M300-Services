@@ -1,9 +1,7 @@
-#!/bin/bash
-
 #
-#   Git Cheat Sheet
+# Git Cheat Sheet
 #
 
-#   Installation
+# Installation
 sudo apt-get install -y mysql-server
 
