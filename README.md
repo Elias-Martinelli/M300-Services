@@ -32,6 +32,9 @@ Die wichtigsten Git Commands als Übersicht und Erklärung
 
 `git fetch` : Alle Änderungen von <remote> runterladen, aber nicht in HEAD integrieren
 
+## Mindmap
+
+
 
 <p align="center">
   <img width="650" src="./Git-CheatSheet-Overview.jpg">
